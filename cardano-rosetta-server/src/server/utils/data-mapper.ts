@@ -1,6 +1,6 @@
 /* eslint-disable camelcase */
 
-import { AuxiliaryData } from 'cardano-serialization-lib';
+import { AuxiliaryData } from '@emurgo/cardano-serialization-lib-nodejs';
 import cbor from 'cbor';
 import {
   BalanceAtBlock,

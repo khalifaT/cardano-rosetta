@@ -7,7 +7,7 @@ import CardanoWasm, {
   PublicKey,
   StakeCredential,
   Vkey
-} from 'cardano-serialization-lib';
+} from '@emurgo/cardano-serialization-lib-nodejs';
 import cbor from 'cbor';
 import { Logger } from 'fastify';
 import {
